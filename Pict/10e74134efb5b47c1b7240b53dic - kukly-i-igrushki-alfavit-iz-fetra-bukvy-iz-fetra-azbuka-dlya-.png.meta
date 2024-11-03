@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: 84e24713ae2244e4fb673d05e7a275a4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1064
+        width: 178
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45436d7f896d85b4dba6e12c098cdd20
+      internalID: -1054586035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_2
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 502
+        width: 155
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d242f00a0a77a4e90a9b9a7ab41b7b
+      internalID: 292860595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_3
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 500
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158be7e4005a12c429eeeee34920bec7
+      internalID: 1479399419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 325
+        width: 270
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce26ffdfa01a6224097038f09475a86f
+      internalID: 597809759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_5
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 142
+        width: 185
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914fb2f6b1c29147852ea931aee56f6
+      internalID: 452972424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_0
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1062
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172082ad341b957498f66283d13785ec
+      internalID: -643111490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1075
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864f47b27d4a53b46bfcfeb0f2ebf17b
+      internalID: -1977545906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_7
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1062
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5383f9e7c7fac149804c4cd2723c928
+      internalID: -1280444325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_8
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 871
+        width: 287
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be92f34364d9436458f863189f0ba234
+      internalID: 1587076137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_9
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 881
+        width: 162
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eacddca627ccec4ba5bafef8867d4f1
+      internalID: 569611076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 879
+        width: 162
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41563666db930845a92236f99154ad5
+      internalID: 305507416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 853
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9255d2881f7d4fa3903a261df4fb8
+      internalID: 470083077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 695
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19ee2aecedb6048b7f40a78b7b73f6
+      internalID: -2066936408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 688
+        width: 183
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b584e77cc1532b45b677f6ab3e4579f
+      internalID: 1702768836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_14
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 681
+        width: 184
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d67e53d2cb9941ba0f4625c552d7e
+      internalID: 836995763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_15
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 688
+        width: 187
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a298502c863244adc813eabb5e8f2
+      internalID: 1853048176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_16
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 687
+        width: 187
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc92570229a924584e3c214e26c69e
+      internalID: 1195012055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 501
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523dffb827097c1428878b7699521764
+      internalID: 626268520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_18
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 511
+        width: 189
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126a2a73eab7b846aa068422ad5c573
+      internalID: -896726319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 516
+        width: 168
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aacf4d365d5f54aa4165ba942b6678
+      internalID: -1593095589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 189
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c4e94b4c86c6449d0f3a13f6d20e7
+      internalID: 1913519686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 537
+        width: 212
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ecfbfa869ecf44f8d22ed52904c5a8
+      internalID: 387223973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 357
+        width: 157
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef28c2780c599458deda80d938bcc7
+      internalID: 1296294428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 359
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb38de9fca611f241a840376d16b918c
+      internalID: 849531482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 346
+        width: 171
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0883748d3616baf418a40b586d1f09b8
+      internalID: 2131485976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 174
+        width: 182
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c567bca1d3fc5a4ca272f4d8a229a6e
+      internalID: 1178656623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 175
+        width: 215
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efc03205803d814f8d3367d55f8d6a2
+      internalID: 1396985802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 161
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359dc0ec0ead14e43a56e9be56062a7d
+      internalID: 2028411853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 167
+        width: 150
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b2bbeb42b422f4cb85e1de308e71ce
+      internalID: 576684615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 327
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98b91153715104999ea89eb62d6222
+      internalID: -1882787170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_30
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 339
+        width: 145
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303f0c3eed9fcd46936cccdffb4aa18
+      internalID: 1414604286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_31
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 317
+        width: 288
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c7897304ad8842a802044734bb9a4
+      internalID: -654782150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_32
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 161
+        width: 239
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292fca828c00004b8682ad851f04e13
+      internalID: -1245996357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_0: -643111490
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_1: -1054586035
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_10: 305507416
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_11: 470083077
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_12: -2066936408
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_13: 1702768836
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_14: 836995763
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_15: 1853048176
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_16: 1195012055
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_17: 626268520
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_18: -896726319
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_19: -1593095589
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_2: 292860595
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_20: 1913519686
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_21: 387223973
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_22: 1296294428
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_23: 849531482
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_24: 2131485976
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_25: 1178656623
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_26: 1396985802
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_27: 2028411853
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_28: 576684615
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_29: -1882787170
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_3: 1479399419
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_30: 1414604286
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_31: -654782150
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_32: -1245996357
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_4: 597809759
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_5: 452972424
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_6: -1977545906
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_7: -1280444325
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_8: 1587076137
+      10e74134efb5b47c1b7240b53dic - kukly-i-igrushki-alfavit-iz-fetra-bukvy-iz-fetra-azbuka-dlya-_9: 569611076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

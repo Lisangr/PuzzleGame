@@ -1,0 +1,2 @@
+Build path: D:/Dev/YandexPlagin/Builde
+Build number: 142
