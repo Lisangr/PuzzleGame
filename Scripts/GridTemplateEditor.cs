@@ -119,32 +119,7 @@ public class GridTemplateEditor : EditorWindow
         }
         GUILayout.EndVertical();
     }
-    /*
-    private void FinalizeShape()
-    {
-        if (selectedPositions.Count > 0)
-        {
-            // Создаем новый ScriptableObject для фигуры
-            GridShape newShape = ScriptableObject.CreateInstance<GridShape>();
-
-            newShape.shapeName = $"CustomShape_{currentTemplate.shapes.Count + 1}";
-            newShape.shapeColor = currentColor;
-            newShape.positions = new List<Vector2Int>(selectedPositions);
-
-            // Добавляем фигуру в текущий шаблон
-            currentTemplate.shapes.Add(newShape);
-
-            // Сохраняем фигуру как отдельный ScriptableObject
-            string shapePath = $"Assets/CustomShape_{newShape.shapeName}.asset";
-            AssetDatabase.CreateAsset(newShape, shapePath);
-            AssetDatabase.SaveAssets();
-            Debug.Log($"Создана новая фигура: {newShape.shapeName} с {selectedPositions.Count} ячейками.");
-
-            // Очищаем выбранные позиции для следующей фигуры
-            selectedPositions.Clear();
-        }
-    }
-    */
+  
     private void FinalizeShape()
     {
         if (selectedPositions.Count > 0)
